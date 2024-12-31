@@ -1,0 +1,11 @@
+.globalDiv{
+    border: 1px solid;
+    width: 220px;
+    height: 200px;
+    margin: auto;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}

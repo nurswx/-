@@ -1,0 +1,21 @@
+.input{
+    border: 2px solid;
+    background-color: rgb(164, 164, 164);
+    color: blue;
+    width: 200px;
+    height: 20px;
+    padding: 3px 5px 3px 5px;
+}
+
+.input:hover , input:focus {
+    border: 2px solid;
+    background-color: white;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+}
+
+.input:active{
+    background-color: black;
+    border: 2px solid white;
+    transition-duration: 0.2s;
+}
